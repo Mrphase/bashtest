@@ -1,2 +1,2 @@
 # bashtest
-bash_test for CPU anti-section. Simply said ./run.bash to run it
+bash_test for CPU anti-section. Simply say ./run.bash to run it
