@@ -1,0 +1,82 @@
+
+Zehui Xie tesing data date:    2020-08-06-23.28.07
+
+
+
+
+---------------------------below is python----------------------------------
+
+NETWORKX
+graph......time(s).......|E|.......|TX-edges|
+delaunay_n10.mtx
+now
+here
+done
+delaunay_n10.mtx :  (9.567524194717407, 3056, 71034)
+
+
+delaunay_n11.mtx
+now
+here
+done
+delaunay_n11.mtx :  (30.434104204177856, 6127, 218728)
+
+
+delaunay_n12.mtx
+now
+here
+done
+delaunay_n12.mtx :  (52.21909499168396, 12264, 365967)
+
+
+delaunay_n13.mtx
+now
+here
+done
+delaunay_n13.mtx :  (284.1365416049957, 24547, 1656270)
+
+
+delaunay_n14.mtx
+now
+here
+done
+delaunay_n14.mtx :  (227.27534127235413, 49122, 1582994)
+
+
+delaunay_n15.mtx
+now
+here
+done
+delaunay_n15.mtx :  (754.868866443634, 98274, 4703128)
+
+
+delaunay_n16.mtx
+now
+here
+done
+delaunay_n16.mtx :  (974.9511499404907, 196575, 6137959)
+
+
+delaunay_n17.mtx
+now
+here
+done
+delaunay_n17.mtx :  (5661.587090015411, 393176, 23499929)
+
+
+as-22july06.mtx
+now
+here
+done
+as-22july06.mtx :  (565.2140913009644, 48436, 1477572)
+
+
+
+-----pathname = cit-HepPh.mtx
+Read 421579 rows.
+#Nodes = 34547
+Running algorithm(s)... nvals = 456081
+NUM_NODES = 34547
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 9.49486e+06 mesc, total path = 48386073

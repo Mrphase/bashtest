@@ -1,0 +1,44 @@
+
+
+---------------------------below is python----------------------------------
+
+NETWORKX
+graph......time(s).......|E|.......|TX-edges|
+delaunay_n10.mtx
+now
+here
+done
+delaunay_n10.mtx :  (0.872833251953125, 3056, 71034)
+
+
+delaunay_n11.mtx
+now
+here
+done
+delaunay_n11.mtx :  (2.7461962699890137, 6127, 218728)
+
+
+delaunay_n12.mtx
+now
+here
+done
+delaunay_n12.mtx :  (4.716588258743286, 12264, 365967)
+
+
+delaunay_n13.mtx
+now
+here
+done
+delaunay_n13.mtx :  (26.260247707366943, 24547, 1656270)
+
+
+delaunay_n14.mtx
+now
+here
+done
+delaunay_n14.mtx :  (22.114314556121826, 49122, 1582994)
+
+
+delaunay_n15.mtx
+now
+here

@@ -1,0 +1,259 @@
+
+Zehui Xie tesing data date:    2020-08-06-01.36.10
+
+
+
+-----pathname = as-22july06.mtx
+Read 48437 rows.
+#Nodes = 22964
+Running algorithm(s)... nvals = 71400
+NUM_NODES = 22964
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 2109 mesc, total path = 1252790
+1th round-----------===
+ time use(ms):         : 7299 mesc, total path = 1466678
+2th round-----------===
+ time use(ms):         : 13490 mesc, total path = 1477572
+3th round-----------===
+ time use(ms):         : 19753 mesc, total path = 1477572
+----break
+ 
+ total time use(ms):         : 19753 mesc, total path = 1477572
+finish -----------------------------------------------------
+
+-----pathname = p2p-Gnutella09.mtx
+Read 26014 rows.
+#Nodes = 8115
+Running algorithm(s)... nvals = 34128
+NUM_NODES = 8115
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 11058 mesc, total path = 1621643
+1th round-----------===
+ time use(ms):         : 949425 mesc, total path = 17256228
+2th round-----------===
+ time use(ms):         : 6.4218e+06 mesc, total path = 21394787
+3th round-----------===
+ time use(ms):         : 1.39886e+07 mesc, total path = 21400336
+4th round-----------===
+ time use(ms):         : 2.15283e+07 mesc, total path = 21400336
+----break
+ 
+ total time use(ms):         : 2.15283e+07 mesc, total path = 21400336
+finish -----------------------------------------------------
+
+-----pathname = delaunay_n10.mtx
+Read 3057 rows.
+#Nodes = 1025
+Running algorithm(s)... nvals = 4081
+NUM_NODES = 1025
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 24 mesc, total path = 13579
+1th round-----------===
+ time use(ms):         : 73 mesc, total path = 27282
+2th round-----------===
+ time use(ms):         : 211 mesc, total path = 51297
+3th round-----------===
+ time use(ms):         : 576 mesc, total path = 70464
+4th round-----------===
+ time use(ms):         : 1061 mesc, total path = 71034
+5th round-----------===
+ time use(ms):         : 1547 mesc, total path = 71034
+----break
+ 
+ total time use(ms):         : 1547 mesc, total path = 71034
+finish -----------------------------------------------------
+
+-----pathname = delaunay_n11.mtx
+Read 6128 rows.
+#Nodes = 2049
+Running algorithm(s)... nvals = 8176
+NUM_NODES = 2049
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 50 mesc, total path = 28847
+1th round-----------===
+ time use(ms):         : 161 mesc, total path = 65507
+2th round-----------===
+ time use(ms):         : 577 mesc, total path = 138183
+3th round-----------===
+ time use(ms):         : 2032 mesc, total path = 214962
+4th round-----------===
+ time use(ms):         : 4460 mesc, total path = 218728
+5th round-----------===
+ time use(ms):         : 6908 mesc, total path = 218728
+----break
+ 
+ total time use(ms):         : 6908 mesc, total path = 218728
+finish -----------------------------------------------------
+
+-----pathname = delaunay_n12.mtx
+Read 12265 rows.
+#Nodes = 4097
+Running algorithm(s)... nvals = 16361
+NUM_NODES = 4097
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 95 mesc, total path = 55149
+1th round-----------===
+ time use(ms):         : 250 mesc, total path = 112890
+2th round-----------===
+ time use(ms):         : 767 mesc, total path = 208928
+3th round-----------===
+ time use(ms):         : 2300 mesc, total path = 314636
+4th round-----------===
+ time use(ms):         : 5286 mesc, total path = 365699
+5th round-----------===
+ time use(ms):         : 8777 mesc, total path = 365967
+6th round-----------===
+ time use(ms):         : 12266 mesc, total path = 365967
+----break
+ 
+ total time use(ms):         : 12266 mesc, total path = 365967
+finish -----------------------------------------------------
+
+-----pathname = delaunay_n13.mtx
+Read 24548 rows.
+#Nodes = 8193
+Running algorithm(s)... nvals = 32740
+NUM_NODES = 8193
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 163 mesc, total path = 115259
+1th round-----------===
+ time use(ms):         : 513 mesc, total path = 247649
+2th round-----------===
+ time use(ms):         : 1879 mesc, total path = 493076
+3th round-----------===
+ time use(ms):         : 6946 mesc, total path = 846493
+4th round-----------===
+ time use(ms):         : 22783 mesc, total path = 1302010
+5th round-----------===
+ time use(ms):         : 60637 mesc, total path = 1653643
+6th round-----------===
+ time use(ms):         : 107994 mesc, total path = 1656270
+7th round-----------===
+ time use(ms):         : 155364 mesc, total path = 1656270
+----break
+ 
+ total time use(ms):         : 155364 mesc, total path = 1656270
+finish -----------------------------------------------------
+
+-----pathname = delaunay_n14.mtx
+Read 49123 rows.
+#Nodes = 16385
+Running algorithm(s)... nvals = 65507
+NUM_NODES = 16385
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 293 mesc, total path = 215405
+1th round-----------===
+ time use(ms):         : 875 mesc, total path = 422196
+2th round-----------===
+ time use(ms):         : 2748 mesc, total path = 760759
+3th round-----------===
+ time use(ms):         : 8543 mesc, total path = 1180616
+4th round-----------===
+ time use(ms):         : 20330 mesc, total path = 1424700
+5th round-----------===
+ time use(ms):         : 37769 mesc, total path = 1582982
+6th round-----------===
+ time use(ms):         : 58268 mesc, total path = 1582994
+7th round-----------===
+ time use(ms):         : 78761 mesc, total path = 1582994
+----break
+ 
+ total time use(ms):         : 78761 mesc, total path = 1582994
+finish -----------------------------------------------------
+
+-----pathname = delaunay_n15.mtx
+Read 98275 rows.
+#Nodes = 32769
+Running algorithm(s)... nvals = 131043
+NUM_NODES = 32769
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 605 mesc, total path = 449249
+1th round-----------===
+ time use(ms):         : 1937 mesc, total path = 944831
+2th round-----------===
+ time use(ms):         : 7132 mesc, total path = 1891403
+3th round-----------===
+ time use(ms):         : 26190 mesc, total path = 3268335
+4th round-----------===
+ time use(ms):         : 73136 mesc, total path = 4331510
+5th round-----------===
+ time use(ms):         : 143875 mesc, total path = 4687919
+6th round-----------===
+ time use(ms):         : 221763 mesc, total path = 4703128
+7th round-----------===
+ time use(ms):         : 299546 mesc, total path = 4703128
+----break
+ 
+ total time use(ms):         : 299546 mesc, total path = 4703128
+finish -----------------------------------------------------
+
+-----pathname = delaunay_n16.mtx
+Read 196576 rows.
+#Nodes = 65537
+Running algorithm(s)... nvals = 262112
+NUM_NODES = 65537
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 1184 mesc, total path = 865238
+1th round-----------===
+ time use(ms):         : 3553 mesc, total path = 1725135
+2th round-----------===
+ time use(ms):         : 11144 mesc, total path = 3157563
+3th round-----------===
+ time use(ms):         : 33304 mesc, total path = 4889430
+4th round-----------===
+ time use(ms):         : 79993 mesc, total path = 6032746
+5th round-----------===
+ time use(ms):         : 141575 mesc, total path = 6137959
+6th round-----------===
+ time use(ms):         : 204192 mesc, total path = 6137959
+----break
+ 
+ total time use(ms):         : 204192 mesc, total path = 6137959
+finish -----------------------------------------------------
+
+-----pathname = delaunay_n17.mtx
+Read 393177 rows.
+#Nodes = 131073
+Running algorithm(s)... nvals = 524249
+NUM_NODES = 131073
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 2447 mesc, total path = 1793685
+1th round-----------===
+ time use(ms):         : 7596 mesc, total path = 3706043
+2th round-----------===
+ time use(ms):         : 26475 mesc, total path = 7317696
+3th round-----------===
+ time use(ms):         : 97335 mesc, total path = 12929390
+4th round-----------===
+ time use(ms):         : 324644 mesc, total path = 18685930
+5th round-----------===
+ time use(ms):         : 870280 mesc, total path = 22642529
+6th round-----------===
+ time use(ms):         : 1.68536e+06 mesc, total path = 23499929
+7th round-----------===
+ time use(ms):         : 2.54429e+06 mesc, total path = 23499929
+----break
+ 
+ total time use(ms):         : 2.54429e+06 mesc, total path = 23499929
+finish -----------------------------------------------------
+
+-----pathname = cit-HepPh.mtx
+Read 421579 rows.
+#Nodes = 34547
+Running algorithm(s)... nvals = 456081
+NUM_NODES = 34547
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 2.07004e+06 mesc, total path = 48386073
+1th round-----------===
+ time use(ms):         : 3.25688e+07 mesc, total path = 198188096

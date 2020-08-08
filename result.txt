@@ -1,0 +1,87 @@
+
+Zehui Xie tesing data date:    2020-08-06-00.21.24
+
+
+Read 30 rows.
+#Nodes = 12
+Running algorithm(s)... nvals = 41
+NUM_NODES = 12
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 0 mesc, total path = 70
+1th round-----------===
+ time use(ms):         : 0 mesc, total path = 73
+2th round-----------===
+ time use(ms):         : 0 mesc, total path = 73
+----break
+ 
+ total time use(ms):         : 0 mesc, total path = 73
+finish -----------------------------------------------------
+Read 3057 rows.
+#Nodes = 1025
+Running algorithm(s)... nvals = 4081
+NUM_NODES = 1025
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 24 mesc, total path = 13579
+1th round-----------===
+ time use(ms):         : 73 mesc, total path = 27282
+2th round-----------===
+ time use(ms):         : 218 mesc, total path = 51297
+3th round-----------===
+ time use(ms):         : 586 mesc, total path = 70464
+4th round-----------===
+ time use(ms):         : 1075 mesc, total path = 71034
+5th round-----------===
+ time use(ms):         : 1566 mesc, total path = 71034
+----break
+ 
+ total time use(ms):         : 1566 mesc, total path = 71034
+finish -----------------------------------------------------
+Read 6128 rows.
+#Nodes = 2049
+Running algorithm(s)... nvals = 8176
+NUM_NODES = 2049
+OPTIMIZED IMPLEMENTATION: F/W-----------
+0th round-----------===
+ time use(ms):         : 50 mesc, total path = 28847
+1th round-----------===
+ time use(ms):         : 161 mesc, total path = 65507
+2th round-----------===
+ time use(ms):         : 582 mesc, total path = 138183
+3th round-----------===
+ time use(ms):         : 2045 mesc, total path = 214962
+4th round-----------===
+ time use(ms):         : 4485 mesc, total path = 218728
+5th round-----------===
+ time use(ms):         : 7035 mesc, total path = 218728
+----break
+ 
+ total time use(ms):         : 7035 mesc, total path = 218728
+finish -----------------------------------------------------
+
+
+---------------------------below is python----------------------------------
+
+NETWORKX
+graph......time(s).......|E|.......|TX-edges|
+now
+here
+done
+delaunay_n10:  (0.8283169269561768, 3056, 71034)
+delaunay_n10.mtx
+now
+here
+done
+delaunay_n10.mtx :  (0.8316628932952881, 3056, 71034)
+
+
+delaunay_n11.mtx
+now
+here
+done
+delaunay_n11.mtx :  (2.6390180587768555, 6127, 218728)
+
+
+start
+ 1596698497.9259348
