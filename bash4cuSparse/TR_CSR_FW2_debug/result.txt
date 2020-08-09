@@ -1,0 +1,208 @@
+
+Zehui Xie tesing data date:    2020-08-08-19.51.31
+
+
+this is kernel2.cu
+Input: ./exe beg csr weight
+Normal 19!!! Expected edge count: 26013
+26013 26013
+Weight file !=NULL
+Graph load (success): 8114 verts, 26013 edges 0.000595093 second(s)
+
+New Start
+ginst->vert_count ginst->beg_pos[ginst->vert_count]
+8114 26013
+nnzC 145932
+-----------edges find = 137818 
+my_timer() time use(ms):         : 1146
+nnzC 1638027
+-----------edges find = 1629913 
+my_timer() time use(ms):         : 1918
+nnzC 17272612
+-----------edges find = 17264498 
+my_timer() time use(ms):         : 2931
+nnzC 21411171
+-----------edges find = 21403057 
+my_timer() time use(ms):         : 8555
+nnzC 21416720
+-----------edges find = 21408606 
+my_timer() time use(ms):         : 16669
+nnzC 21416720
+-----------edges find = 21408606 
+my_timer() time use(ms):         : 25102
+finish after 5 roundmy_timer() time use(ms):         : 25102
+this is kernel2.cu
+Input: ./exe beg csr weight
+Normal 19!!! Expected edge count: 3056
+3056 3056
+Weight file !=NULL
+Graph load (success): 1024 verts, 3056 edges 8.2016e-05 second(s)
+
+New Start
+ginst->vert_count ginst->beg_pos[ginst->vert_count]
+1024 3056
+nnzC 22913
+-----------edges find = 21889 
+my_timer() time use(ms):         : 1150
+nnzC 29963
+-----------edges find = 28939 
+my_timer() time use(ms):         : 1811
+nnzC 43666
+-----------edges find = 42642 
+my_timer() time use(ms):         : 2730
+nnzC 67681
+-----------edges find = 66657 
+my_timer() time use(ms):         : 3615
+nnzC 86848
+-----------edges find = 85824 
+my_timer() time use(ms):         : 4285
+nnzC 87418
+-----------edges find = 86394 
+my_timer() time use(ms):         : 5144
+nnzC 87418
+-----------edges find = 86394 
+my_timer() time use(ms):         : 6003
+finish after 6 roundmy_timer() time use(ms):         : 6003
+this is kernel2.cu
+Input: ./exe beg csr weight
+Normal 19!!! Expected edge count: 6127
+6127 6127
+Weight file !=NULL
+Graph load (success): 2048 verts, 6127 edges 0.000206947 second(s)
+
+New Start
+ginst->vert_count ginst->beg_pos[ginst->vert_count]
+2048 6127
+nnzC 29639
+-----------edges find = 27591 
+my_timer() time use(ms):         : 1155
+nnzC 45231
+-----------edges find = 43183 
+my_timer() time use(ms):         : 1820
+nnzC 81891
+-----------edges find = 79843 
+my_timer() time use(ms):         : 2747
+nnzC 154567
+-----------edges find = 152519 
+my_timer() time use(ms):         : 3647
+nnzC 231346
+-----------edges find = 229298 
+my_timer() time use(ms):         : 4329
+nnzC 235112
+-----------edges find = 233064 
+my_timer() time use(ms):         : 5253
+nnzC 235112
+-----------edges find = 233064 
+my_timer() time use(ms):         : 6166
+finish after 6 roundmy_timer() time use(ms):         : 6166
+this is kernel2.cu
+Input: ./exe beg csr weight
+Normal 19!!! Expected edge count: 12264
+12264 12264
+Weight file !=NULL
+Graph load (success): 4096 verts, 12264 edges 0.000322104 second(s)
+
+New Start
+ginst->vert_count ginst->beg_pos[ginst->vert_count]
+4096 12264
+nnzC 42717
+-----------edges find = 38621 
+my_timer() time use(ms):         : 1142
+nnzC 71533
+-----------edges find = 67437 
+my_timer() time use(ms):         : 1799
+nnzC 129274
+-----------edges find = 125178 
+my_timer() time use(ms):         : 2714
+nnzC 225312
+-----------edges find = 221216 
+my_timer() time use(ms):         : 3604
+nnzC 331020
+-----------edges find = 326924 
+my_timer() time use(ms):         : 4269
+nnzC 382083
+-----------edges find = 377987 
+my_timer() time use(ms):         : 5122
+nnzC 382351
+-----------edges find = 378255 
+my_timer() time use(ms):         : 5984
+nnzC 382351
+-----------edges find = 378255 
+my_timer() time use(ms):         : 6738
+finish after 7 roundmy_timer() time use(ms):         : 6738
+this is kernel2.cu
+Input: ./exe beg csr weight
+Normal 19!!! Expected edge count: 24547
+24547 24547
+Weight file !=NULL
+Graph load (success): 8192 verts, 24547 edges 0.000557899 second(s)
+
+New Start
+ginst->vert_count ginst->beg_pos[ginst->vert_count]
+8192 24547
+nnzC 69662
+-----------edges find = 61470 
+my_timer() time use(ms):         : 1150
+nnzC 131643
+-----------edges find = 123451 
+my_timer() time use(ms):         : 1830
+nnzC 264033
+-----------edges find = 255841 
+my_timer() time use(ms):         : 2762
+nnzC 509460
+-----------edges find = 501268 
+my_timer() time use(ms):         : 3649
+nnzC 862877
+-----------edges find = 854685 
+my_timer() time use(ms):         : 4333
+nnzC 1318394
+-----------edges find = 1310202 
+my_timer() time use(ms):         : 5230
+nnzC 1670027
+-----------edges find = 1661835 
+my_timer() time use(ms):         : 6147
+nnzC 1672654
+-----------edges find = 1664462 
+my_timer() time use(ms):         : 6853
+nnzC 1672654
+-----------edges find = 1664462 
+my_timer() time use(ms):         : 7591
+finish after 8 roundmy_timer() time use(ms):         : 7591
+this is kernel2.cu
+Input: ./exe beg csr weight
+Normal 19!!! Expected edge count: 49122
+49122 49122
+Weight file !=NULL
+Graph load (success): 16384 verts, 49122 edges 0.00100398 second(s)
+
+New Start
+ginst->vert_count ginst->beg_pos[ginst->vert_count]
+16384 49122
+nnzC 121558
+-----------edges find = 105174 
+my_timer() time use(ms):         : 1152
+nnzC 231789
+-----------edges find = 215405 
+my_timer() time use(ms):         : 1814
+nnzC 438580
+-----------edges find = 422196 
+my_timer() time use(ms):         : 2736
+nnzC 777143
+-----------edges find = 760759 
+my_timer() time use(ms):         : 3629
+nnzC 1197000
+-----------edges find = 1180616 
+my_timer() time use(ms):         : 4295
+nnzC 1441084
+-----------edges find = 1424700 
+my_timer() time use(ms):         : 5154
+nnzC 1599366
+-----------edges find = 1582982 
+my_timer() time use(ms):         : 6017
+nnzC 1599378
+-----------edges find = 1582994 
+my_timer() time use(ms):         : 6778
+nnzC 1599378
+-----------edges find = 1582994 
+my_timer() time use(ms):         : 7437
+finish after 8 roundmy_timer() time use(ms):         : 7437

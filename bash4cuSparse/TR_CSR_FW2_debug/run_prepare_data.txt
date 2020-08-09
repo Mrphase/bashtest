@@ -1,0 +1,153 @@
+Input: ./exe tuple_file(text) reverse_the_edge(1 reverse, 0 not reverse) lines_to_skip
+edge count: 48436
+max vertex id: 22963
+min vertex id: 1
+edge count: 48436
+vert count: 22963
+Getting degree...
+Calculate beg_pos ...
+Constructing CSR...
+0 0 
+1 1 0 
+2 1 0 
+3 1 2 
+4 1 3 
+5 1 4 
+6 3 2 3 4 
+7 0 
+Input: ./exe tuple_file(text) reverse_the_edge(1 reverse, 0 not reverse) lines_to_skip
+edge count: 26013
+max vertex id: 8114
+min vertex id: 1
+edge count: 26013
+vert count: 8114
+Getting degree...
+Calculate beg_pos ...
+Constructing CSR...
+0 10 1 2 3 4 5 6 7 8 9 10 
+1 0 
+2 0 
+3 10 540 581 1009 1356 1544 2044 2045 2046 2047 2048 
+4 0 
+5 0 
+6 0 
+7 10 671 1063 1159 1562 1572 2004 2034 2035 2036 2037 
+Input: ./exe tuple_file(text) reverse_the_edge(1 reverse, 0 not reverse) lines_to_skip
+edge count: 3056
+max vertex id: 1024
+min vertex id: 1
+edge count: 3056
+vert count: 1024
+Getting degree...
+Calculate beg_pos ...
+Constructing CSR...
+0 0 
+1 0 
+2 0 
+3 0 
+4 0 
+5 0 
+6 0 
+7 0 
+Input: ./exe tuple_file(text) reverse_the_edge(1 reverse, 0 not reverse) lines_to_skip
+edge count: 6127
+max vertex id: 2048
+min vertex id: 1
+edge count: 6127
+vert count: 2048
+Getting degree...
+Calculate beg_pos ...
+Constructing CSR...
+0 0 
+1 0 
+2 0 
+3 0 
+4 0 
+5 0 
+6 0 
+7 0 
+Input: ./exe tuple_file(text) reverse_the_edge(1 reverse, 0 not reverse) lines_to_skip
+edge count: 12264
+max vertex id: 4096
+min vertex id: 1
+edge count: 12264
+vert count: 4096
+Getting degree...
+Calculate beg_pos ...
+Constructing CSR...
+0 0 
+1 0 
+2 0 
+3 0 
+4 0 
+5 0 
+6 0 
+7 0 
+Input: ./exe tuple_file(text) reverse_the_edge(1 reverse, 0 not reverse) lines_to_skip
+edge count: 24547
+max vertex id: 8192
+min vertex id: 1
+edge count: 24547
+vert count: 8192
+Getting degree...
+Calculate beg_pos ...
+Constructing CSR...
+0 0 
+1 0 
+2 0 
+3 0 
+4 0 
+5 0 
+6 0 
+7 0 
+Input: ./exe tuple_file(text) reverse_the_edge(1 reverse, 0 not reverse) lines_to_skip
+edge count: 49122
+max vertex id: 16384
+min vertex id: 1
+edge count: 49122
+vert count: 16384
+Getting degree...
+Calculate beg_pos ...
+Constructing CSR...
+0 0 
+1 0 
+2 0 
+3 0 
+4 0 
+5 0 
+6 0 
+7 0 
+Input: ./exe tuple_file(text) reverse_the_edge(1 reverse, 0 not reverse) lines_to_skip
+edge count: 98274
+max vertex id: 32768
+min vertex id: 1
+edge count: 98274
+vert count: 32768
+Getting degree...
+Calculate beg_pos ...
+Constructing CSR...
+0 0 
+1 0 
+2 0 
+3 0 
+4 0 
+5 0 
+6 0 
+7 0 
+Input: ./exe tuple_file(text) reverse_the_edge(1 reverse, 0 not reverse) lines_to_skip
+edge count: 196575
+max vertex id: 65536
+min vertex id: 1
+edge count: 196575
+vert count: 65536
+Getting degree...
+Calculate beg_pos ...
+Constructing CSR...
+0 0 
+1 0 
+2 0 
+3 0 
+4 0 
+5 0 
+6 0 
+7 0 
