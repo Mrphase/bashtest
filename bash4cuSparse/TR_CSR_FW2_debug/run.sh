@@ -29,6 +29,7 @@ echo "index === $x"
 echo "./a.out $delaunay_n$j$beg $delaunay_n$j$csr $delaunay_n$j$weight $x "
   # ./kernel.out ./toy_graph/delaunay_n$j$mtx\_beg_pos.bin ./toy_graph/delaunay_n$j$mtx\_csr.bin ./toy_graph/delaunay_n$j$mtx\_weight.bin  >>result.txt
   ./a.out $delaunay_n$j$beg $delaunay_n$j$csr $delaunay_n$j$weight $x  >>result.txt
+  ./kernel.out $delaunay_n$j$beg $delaunay_n$j$csr $delaunay_n$j$weight  >>result.txt
   index=i=$(( $index+1 ))
   #echo $result
 done
@@ -44,6 +45,7 @@ echo "./a.out $toy$i$beg $toy$i$csr $toy$i$weight $x   "
 #   ./text_to_bin.bin ./toy_graph/$i$mtx 0 0 >> run_prepare_data.txt
   # ./kernel.out ./toy_graph/$i$mtx\_beg_pos.bin ./toy_graph/$i$mtx\_csr.bin ./toy_graph/$i$mtx\_weight.bin  >>result.txt
   ./a.out $toy$i$beg $toy$i$csr $toy$i$weight $x  >>result.txt
+  ./kernel.out $toy$i$beg $toy$i$csr $toy$i$weight   >>result.txt
   index=i=$(( $index+1 ))
   # ./trans $i$mtx >> result.txt
   #echo $result
